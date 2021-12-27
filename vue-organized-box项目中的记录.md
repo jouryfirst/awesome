@@ -65,4 +65,4 @@ css：
 
 ![image-20211227222629514](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211227222629514.png)
 
-便以为在vue组件中使用的href指向的是icon-box，结果发现在iconfont下载下来的iconfont.html中其实是以#开头的。
+便以为在vue组件中使用的href指向的是icon-box，结果发现在iconfont下载下来的iconfont.html中其实是以#开头的。所以加上#就对了。
